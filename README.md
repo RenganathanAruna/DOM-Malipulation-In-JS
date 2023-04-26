@@ -1,5 +1,6 @@
-# frontend-notes-app
-notes app is created statically using html css and js
+# Notes app in js
+
+Notes app is created statically using html css and js
 
 App is deployed in netlify
 
